@@ -9,7 +9,7 @@ name: Noah Kennedy
 description: Data Engineer and biotech nerd, based out of Washington, D.C. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/18645647?s=400&u=ed83618eeb4a6bd1359dab0073e1609aa5bdbe22&v=4
 
 #
 # Flags below are optional
@@ -18,19 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  email: mailto:noah.kennedy1@gmail.com
+  github: https://github.com/noahfkennedy
+  instagram: https://instagram.com/noahfkennedy
+  linkedin: https://linkedin.com/noahfkennedy
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
